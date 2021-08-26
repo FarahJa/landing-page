@@ -2,5 +2,5 @@
 
 - A responsive landing page template using HTML5 and CSS3.
 
-** Live preview **
-(https://farahja.github.io/landing-page/)
+**Live preview**
+https://farahja.github.io/landing-page/
